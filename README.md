@@ -6,7 +6,7 @@
 
 <Div align="justify" >
 
-<img align="right" src="![image](https://github.com/EliezerLopes1/PortfolioTG/assets/102488914/b457464c-4adc-4893-b0ff-be095524357c)
+<img align="right" src="[![image](https://github.com/EliezerLopes1/PortfolioTG/assets/102488914/b457464c-4adc-4893-b0ff-be095524357c)](https://github.com/EliezerLopes1/PortfolioTG/blob/main/Imagens/1664030816405.jpg)
 " alt="Foto de perfil" width="200"/>
 
 Olá! Eu sou o Eliézer e desde criança sou apaixonado por tecnologia em geral. Comecei no mundo da programação estudando tecnologias front-end, e atualmente estudo na Faculdade de Tecnologia de São José dos Campos e curso Técnologo em Análise e Desenvolvimento de Sistemas, com foco em programação, desenvolvimento, manutenção de sistemas e aplicação de metodologias ágeis.
