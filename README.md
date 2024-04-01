@@ -46,7 +46,7 @@ Cursos realizados e certificados.
 
 > [Link para a API do 1º Semetre](https://github.com/Fiv5TechCo/API-1ADS-2022-1)
 
-A Aprendizagem por Projetos Integrados do 1º Semestre do curso de Análise e Desenvolvimento de Sistemas envolveu colaboração com um cliente interno, de dentro da Fatec, um dos nossos professores. Seu propósito consistia em criar uma Sistema Web a fim de catalogar vagas de emprego e cursos de certificação em qualquer área de atuação. Para alcançar a conclusão desse projeto, a nossa equipe criou um repositório no GitHub a fim de armazenar o código-fonte desse projeto, e também para o versionamento deste código, bem como o desenvolvimento em si do projeto, utilizando programas em Python e JavaScript e linguagens de desenvolvimento Web, como HTML5 e CSS3, além de frameworks para auxiliar no desenvolvimento, como Flask e Bootstrap.
+No primeiro semestre de 2022, em colaboração com a FATEC, desenvolvemos um sistema web destinado à automação do processo de catalogação de vagas de emprego em diversas áreas profissionais, com foco especial em Tecnologia da Informação (TI). Além disso, nosso objetivo era configurar métricas que avaliassem diferentes tipos de conhecimento, habilidades e competências necessárias para essas vagas. Durante esse projeto, um grande ponto de aprendizado foi a necessidade de realizar uma raspagem web para buscar vagas de emprego em uma plataforma já existente. Em termos visuais, buscamos criar uma interface que fornecesse informações estratégicas por meio de gráficos, priorizando a facilidade de uso e operação. Todo o processo de desenvolvimento foi documentado de forma abrangente no GitHub, contemplando os procedimentos essenciais para garantir a satisfação do cliente.
 
 </Div>
 
