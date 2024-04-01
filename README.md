@@ -8,7 +8,7 @@
 
 <img align="right" src="https://raw.githubusercontent.com/NicolasPereira06/Portfolio-TG/main/imagens/NicolasPereira06.jpg?token=GHSAT0AAAAAACHE5MFGN3FBQLKJKUAJDTCOZHX54KA" alt="Foto de perfil" width="200"/>
 
-Olá, me chamo Nicolas Bonifácio Pereira, Moro em Jacareí e atualmente estudo na Faculdade de Tecnologia de São José dos Campos e curso Técnologo em Análise e Desenvolvimento de Sistemas, com foco em programação, desenvolvimento, manutenção de sistemas e aplicação de metodologias ágeis. Comecei o meu interesse pela área da tecnologia, no Ensino Médio, foi um período em que tive um contato maior com a informática, a partir dai comecei a assistir alguns cursos onlines e programar por conta própria. No 3º Ano do Ensino Médio prestei vestibular para faculdades na área de tecnologia, entrei na Fatec de São José dos Campos, e até então tenho desenvolvido e aprimorado minhas habilidades de programação.
+Olá! Eu sou o Eliézer e desde criança sou apaixonado por tecnologia em geral. Comecei no mundo da programação estudando tecnologias front-end, e atualmente estudo na Faculdade de Tecnologia de São José dos Campos e curso Técnologo em Análise e Desenvolvimento de Sistemas, com foco em programação, desenvolvimento, manutenção de sistemas e aplicação de metodologias ágeis.
 </Div>
 
 <Div align="center" >
@@ -17,8 +17,8 @@ Olá, me chamo Nicolas Bonifácio Pereira, Moro em Jacareí e atualmente estudo 
 
 ### Contatos
 
-  <a href= "https://linkedin.com/in/NicolasPereira06" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "https://github.com/NicolasPereira06" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+  <a href= "https://linkedin.com/in/eliézer-lopes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "https://github.com/EliezerLopes1" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 
 <hr />  
 
