@@ -84,7 +84,7 @@ No primeiro semestre de 2022, em colaboração com a FATEC, desenvolvemos um sis
 
 <Div align="justify" >
 
-Neste projeto fiquei no desenvolvimento Front-End, desenvolvi algumas páginas como a do Catálogo de Vagas e a página de Cursos. E por fim, auxiliei também no desenvolvimento da documentação no repositório do GitHub.
+Neste projeto, fiquei responsável pelo desenvolvimento Front-End, utilizando as tecnologias HTML5, CSS3 e GitHub. Desenvolvi algumas páginas, como a do Catálogo de Vagas e a página de Cursos. Por fim, também auxiliei no desenvolvimento da documentação no repositório do GitHub.
 
 </Div>
 
