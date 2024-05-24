@@ -102,19 +102,19 @@ Neste projeto, fiquei responsável pelo desenvolvimento Front-End, utilizando as
 ### Soft skills
 
 * Colaboração
-> Alcançada por meio de colaborar e ajudar os meus colegas que estavam com dificuldades em desenvolver durante o projeto.
+> Durante o projeto, ajudei um colega a implementar uma funcionalidade na página de Catálogo de Vagas e a página de Cursos e dei algumas ideias para melhorar o desenvolvimento do projeto.
 
 * Organização 
-> Adquirida por meio da separação das atividades que deveriam ser realizadas por mim e pelo grupo, otimizando o tempo dos estudos e das atividades realizadas.
+> Organizar as tarefas da equipe usando o Trello. E percebendo como as tarefas diárias, semanais e mensais com base nas especialidades de cada membro, fez eu perceber como organizar um time.
 
 * Comunicação 
-> Alcançada por meio da comunicação estabelecida com a equipe, durante nossas reuniões diárias, a divisão de tarefas, alinhamentos e também com a colaboração da equipe.
+> Durante o desenvolvimento do sistema de automação de vagas, realizávamos reuniões diárias de stand-up. Eu comunicava claramente o progresso, desafios e necessidades de apoio, facilitando discussões para garantir alinhamento e foco nos objetivos do sprint.
  
 * Autonomia
-> Alcançada por meio da busca constante de maior envolvimento no desenvolvimento do projeto ao longo das sprints.
+> No projeto, tomei a iniciativa de aprender sobre a página de curso e vagas, implementei e testei a integração sozinho, garantindo seu funcionamento perfeito antes de apresentá-la à equipe.
 
 * Trabalho em equipe
-> Adquirida por meio da capacidade de colaborar efetivamente com meus colegas durante a execução do projeto.
+> Junto com um colaborador ficamos encarregados para fazer cuidar do frontend enquanto outros cuidaram do backend. Nossa colaboração eficaz nos levou entregar um ótimo projeto.
 
 ### Em 2022-2
 
@@ -173,16 +173,18 @@ Neste projeto, fiquei responsável pelo desenvolvimento Front-End, utilizando as
 ### Soft skills
 
 * Organização 
-> Adquirida por meio da separação das atividades que deveriam ser realizadas por mim e pelo grupo, otimizando o tempo dos estudos e das atividades realizadas, para que a entrega pudesse ser concluída.
+> Melhorada por meio da separação das atividades que deveriam ser realizadas pelo grupo, como por exemplo a divisão de tarefas Back-End e Front-End. Porém dessa vez utilizamos ferramentas que viabilizaram essas divisões como o Jira Software.
 
 * Comunicação 
-> Alcançada por meio da comunicação estabelecida com a equipe, durante nossas reuniões diárias, a divisão de tarefas, alinhamentos e também com a colaboração mútua e assistência oferecida aos meus colegas.
+> Melhorada por meio de colaborar e ajudar os meus colegas que estavam com problemas em relação a alguns integrantes do grupo que estavam prejudicando o andamento da aplicação, conversamos e tomamos a melhor decisão para o grupo.
  
-* Proatividade
-> Alcançada por meio da busca constante de maior envolvimento no desenvolvimento do projeto ao longo das sprints.
+* Autonomia
+> No projeto, tomei a iniciativa de aprender sobre as funcionalidades que iriamos utilizar, implementei e testei a integração com um colega, garantindo seu funcionamento perfeito antes de apresentá-la à equipe.
 
 * Trabalho em equipe
-> Adiquirido por meio da capacidade de colaborar efetivamente com meus colegas durante a execução do projeto, compartilhando ideias e trabalhando em conjunto para alcançar o sucesso deste projeto.
+> Melhorada por meio da capacidade de colaborar efetivamente com as minhas entregas e ajudar o meu grupo com tecnologias que naquele momento eram novas para nós.
+
+Em 2023-1
 
 ### Em 2023-1
 
@@ -246,14 +248,81 @@ Neste projeto, fiquei responsável pelo desenvolvimento Front-End, utilizando as
 
 ### Soft skills
 
-* Organização 
-> Adquirida por meio da separação das atividades que deveriam ser realizadas por mim e pelo grupo, otimizando o tempo dos estudos e das atividades realizadas.
+* Colaboração
+> Durante o projeto, ajudei um colega a implementar algumas funcionalidades em algumas páginas e dei algumas ideias para melhorar o desenvolvimento do projeto.
 
 * Comunicação 
-> Alcançada por meio da comunicação estabelecida com a equipe, durante reuniões, divisão de tarefas, alinhamentos e também com a colaboração mútua e assistência oferecida pelos integrantes.
- 
-* Proatividade
-> Alcançada por meio da busca constante de maior envolvimento no desenvolvimento do projeto.
+> Melhorada por meio da capacidade de colaborar efetivamente com as minhas entregas e ajudar o meu grupo com tecnologias que naquele momento eram novas para nós.
 
-* Trabalho em equipe
-> Adiquirido por meio da capacidade de colaborar efetivamente com meus colegas durante a execução do projeto, compartilhando ideias e trabalhando em conjunto para alcançar os objetivos estabelecidos.
+### Em 2023-2
+
+<Div align="justify" >
+
+> [Link para a API do 4º Semestre](https://github.com/QuantumTeam23/API--4-ADS)
+
+A Aprendizagem por Projetos Integrados do 4º Semestre do curso de Análise e Desenvolvimento de Sistemas foi desenvolvido em colaboração com a empresa parceira Greenneat. Seu propósito consistia em criar uma aplicação web a fim de gerenciar usuários e também os seus créditos, que era usado como moeda de troca em transações de óleo usado a fim de conseguir benefícios e descontos na loja virtual da Greenneat. Para isso, era preciso que a aplicação apresentasse um sistema de que exibisse todas as transações de créditos do sistema para o administador, tais como compras e vendas de produtos, além de um gerenciamento para esses usuários. Para alcançar a conclusão desse projeto, a nossa equipe criou um repositório no GitHub a fim de armazenar o código-fonte desse projeto. No desenvolvimento utilizamos a linguagem de programação TypeScript com a sua biblioteca de interface gráfica React, um Servidor Back-End em Node.js e um Banco de Dados SQL para gerenciamento de dados, que no caso foi o PostgreSQL.
+
+</Div>
+
+### Tecnologias utilizadas
+
+<details><summary>Tecnologias</summary>
+   
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>Figma 
+  > Utilizado para desenvolver o protótipo apresentado ao cliente.
+  
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/> VScode 
+  > Utilizado para o desenvolvimento do código de todo o projeto.
+
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/> TypeScript 
+  > Utilizamos a linguagem de programação Typescript para o desenvolvimento do Front-End e também do Back-End.
+
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/> React 
+  > Utilizamos a biblioteca de interface gráfica React para o desenvolvimento do Front-End da aplicação.
+
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/> Node.js 
+  > Utilizamos o Node juntamente com o Typescript para o desenvolvimento do Back-End da aplicação.
+
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/> PostgreSQL 
+  > Utilizamos o PostgreSQL para o armazenamento e consulta de dados do sistema.
+
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg"/> Vercel 
+  > Utilizamos o Vercel como nossa plataforma de deployment, para a hospedagem de nossa aplicação web.
+
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> Git 
+  > Utilizamos o Git devido à sua capacidade de gerenciar e controlar as versões do código-fonte de forma eficiente, possibilitando colaboração, rastreamento de alterações, tornando o desenvolvimento mais organizado e confiável.
+
+</details>
+ 
+### Contribuições
+
+<Div align="justify" >
+
+Neste projeto fiquei no desenvolvimento Back-End. Desenvolvi algumas rotas no servidor Express Back-End que realiza operações CRUD no Banco de Dados, sistema de login e cadastro, recuperação de senha, sistema de transações de créditos Greenneat e gerenciamento dos usuários por parte do administrador, além de auxiliar na montagem do GitHub da equipe. Para realizar essa funções utilizei o TypeScript, Node.Js e a ferramenta de versionamento de código Git.
+
+</Div>
+
+### Hard skills
+
+* Desenvolvimento Web (React + Node.Js)
+> Sei fazer o básico, com autonomia.
+
+* Utilização de um SGBD e bancos relacionais de dados. (PostgreSQL)
+> Não sei fazer.
+
+* Deploy de aplicações (Vercel)
+> Não sei fazer.
+
+* Controle de versionamento (Git)  
+> Sei fazer o básico, com autonomia.
+
+### Soft skills
+
+* Proatividade 
+> Adquirida por meio da execução das atividades e tarefas propostas, nesse API, desenvolvi bastante funções no front-end em relação aos demais, portanto tive um índice de proatividade maior.
+
+* Autonomia 
+> Melhorada por meio da realização de tarefas de forma autônoma e independente, sem a espera de alguém para a designação da tarefa.
+
+* Comunicação
+> Melhorada por meio de colaborar e ajudar os meus colegas que estavam com problemas em relação a alguns integrantes do grupo que estavam prejudicando o andamento da aplicação, conversamos com o integrante e ele começou a colaborar para o bom andamento do grupo.
