@@ -298,7 +298,7 @@ A Aprendizagem por Projetos Integrados do 4º Semestre do curso de Análise e De
 
 <Div align="justify" >
 
-Neste projeto fiquei no desenvolvimento Back-End. Desenvolvi algumas rotas no servidor Express Back-End que realiza operações CRUD no Banco de Dados, sistema de login e cadastro, recuperação de senha, sistema de transações de créditos Greenneat e gerenciamento dos usuários por parte do administrador, além de auxiliar na montagem do GitHub da equipe. Para realizar essa funções utilizei o TypeScript, Node.Js e a ferramenta de versionamento de código Git.
+Neste projeto, fiquei responsável pelo desenvolvimento Front-End, utilizando as tecnologias TypeScript, React, NodeJS. Desenvolvi todas as telas de Login e algumas telas de administrador. Por fim, realizei melhorias nas páginas, aprimorando o visual e a usabilidade.
 
 </Div>
 
