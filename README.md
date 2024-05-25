@@ -32,9 +32,9 @@ Olá! Eu sou o Eliézer Henrique dos Santos Lopes e desde criança sou apaixonad
 
 Cursos realizados e certificados.
 
-|   Curso  |  Plataforma  |   Status    |
-| :---   | :---    | :---      |
-| Curso de MongoDB |  MongoDB  | Concluído |
+| Curso de MongoDB | Plataforma | Status |
+| :--- | :--- | :--- |
+| Curso de MongoDB | MongoDB | [Concluído](imagens/certificado-mongodb.jpg) |
 
 ## Projetos
 
