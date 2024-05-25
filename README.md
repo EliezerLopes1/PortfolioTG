@@ -34,7 +34,7 @@ Cursos realizados e certificados.
 
 | Curso de MongoDB | Plataforma | Status |
 | :--- | :--- | :--- |
-| Curso de MongoDB | MongoDB | [Concluído](imagens/certificado-mongodb.jpg) |
+| Curso de MongoDB | MongoDB | [Concluído](Imagens/certificado-mongodb.jpg) |
 
 ## Projetos
 
