@@ -103,19 +103,19 @@ Neste projeto, fiquei responsável pelo desenvolvimento Front-End, utilizando as
 ### Soft skills
 
 * Colaboração
-> Durante o projeto, ajudei um colega a implementar uma funcionalidade na página de Catálogo de Vagas e a página de Cursos e dei algumas ideias para melhorar o desenvolvimento do projeto.
+> Durante o projeto, ajudei um colega a implementar uma funcionalidade na página de Catálogo de Vagas e na página de Cursos, e dei algumas ideias para melhorar o desenvolvimento do projeto.
 
 * Organização 
-> Organizar as tarefas da equipe usando o Trello. E percebendo como as tarefas diárias, semanais e mensais com base nas especialidades de cada membro, fez eu perceber como organizar um time.
+> Organizar as tarefas da equipe usando o Trello e perceber como as tarefas diárias, semanais e mensais, com base nas especialidades de cada membro, fez-me perceber como organizar um time.
 
 * Comunicação 
 > Durante o desenvolvimento do sistema de automação de vagas, realizávamos reuniões diárias de stand-up. Eu comunicava claramente o progresso, desafios e necessidades de apoio, facilitando discussões para garantir alinhamento e foco nos objetivos do sprint.
  
 * Autonomia
-> No projeto, tomei a iniciativa de aprender sobre a página de curso e vagas, implementei e testei a integração sozinho, garantindo seu funcionamento perfeito antes de apresentá-la à equipe.
+> No projeto, tomei a iniciativa de aprender sobre a página de cursos e vagas, implementei e testei a integração sozinho, garantindo seu funcionamento perfeito antes de apresentá-la à equipe.
 
 * Trabalho em equipe
-> Junto com um colaborador ficamos encarregados para fazer cuidar do frontend enquanto outros cuidaram do backend. Nossa colaboração eficaz nos levou entregar um ótimo projeto.
+> Junto com um colaborador, ficamos encarregados de cuidar do frontend enquanto outros cuidaram do backend. Nossa colaboração eficaz nos levou a entregar um ótimo projeto.
 
 ### Em 2022-2
 
@@ -174,16 +174,16 @@ Neste projeto, fiquei responsável pelo desenvolvimento Front-End, utilizando as
 ### Soft skills
 
 * Organização 
-> Melhorada por meio da separação das atividades que deveriam ser realizadas pelo grupo, como por exemplo a divisão de tarefas Back-End e Front-End. Porém dessa vez utilizamos ferramentas que viabilizaram essas divisões como o Jira Software.
+> Melhorada por meio da separação das atividades que deveriam ser realizadas pelo grupo, como por exemplo a divisão de tarefas Back-End e Front-End. Dessa vez utilizamos ferramentas que viabilizaram essas divisões, como o Jira Software.
 
 * Comunicação 
-> Melhorada por meio de colaborar e ajudar os meus colegas que estavam com problemas em relação a alguns integrantes do grupo que estavam prejudicando o andamento da aplicação, conversamos e tomamos a melhor decisão para o grupo.
- 
+> Melhorada por meio da colaboração e ajuda aos meus colegas que estavam enfrentando problemas com alguns integrantes do grupo que estavam prejudicando o andamento da aplicação. Conversamos e tomamos a melhor decisão para o grupo.
+
 * Autonomia
-> No projeto, tomei a iniciativa de aprender sobre as funcionalidades que iriamos utilizar, implementei e testei a integração com um colega, garantindo seu funcionamento perfeito antes de apresentá-la à equipe.
+> No projeto, tomei a iniciativa de aprender sobre as funcionalidades que iríamos utilizar, implementei e testei a integração com um colega, garantindo seu funcionamento perfeito antes de apresentá-la à equipe.
 
 * Trabalho em equipe
-> Melhorada por meio da capacidade de colaborar efetivamente com as minhas entregas e ajudar o meu grupo com tecnologias que naquele momento eram novas para nós.
+> Melhorada por meio da capacidade de colaborar efetivamente com as minhas entregas e ajudar o meu grupo com tecnologias que, naquele momento, eram novas para nós.
 
 Em 2023-1
 
@@ -229,7 +229,7 @@ O objetivo do projeto deste semestre era desenvolver um sistema WEB de gerenciam
 
 <Div align="justify" >
 
-Neste projeto, fiquei responsável pelo desenvolvimento Front-End, utilizando as tecnologias TypeScript, React, NodeJS. Desenvolvi algumas páginas. Por fim, realizei melhorias nas páginas, aprimorando o visual e a usabilidade.
+Neste projeto, fiquei responsável pelo desenvolvimento Front-End, utilizando as tecnologias TypeScript, React e NodeJS. Desenvolvi algumas páginas e, por fim, realizei melhorias nas páginas, aprimorando o visual e a usabilidade.
 
 </Div>
 
@@ -299,7 +299,7 @@ A Aprendizagem por Projetos Integrados do 4º Semestre do curso de Análise e De
 
 <Div align="justify" >
 
-Neste projeto, fiquei responsável pelo desenvolvimento Front-End, utilizando as tecnologias TypeScript, React, NodeJS. Desenvolvi todas as telas de Login e algumas telas de administrador. Por fim, realizei melhorias nas páginas, aprimorando o visual e a usabilidade.
+Neste projeto, fiquei responsável pelo desenvolvimento Front-End, utilizando as tecnologias TypeScript, React e NodeJS. Desenvolvi todas as telas de login e algumas telas de administrador. Por fim, realizei melhorias nas páginas, aprimorando o visual e a usabilidade.
 
 </Div>
 
@@ -320,10 +320,10 @@ Neste projeto, fiquei responsável pelo desenvolvimento Front-End, utilizando as
 ### Soft skills
 
 * Proatividade 
-> Adquirida por meio da execução das atividades e tarefas propostas, nesse API, desenvolvi bastante funções no front-end em relação aos demais, portanto tive um índice de proatividade maior.
+> Adquirida por meio da execução das atividades e tarefas propostas. Nesse API, desenvolvi muitas funções no front-end em relação aos demais, portanto tive um índice de proatividade maior.
 
 * Autonomia 
-> Melhorada por meio da realização de tarefas de forma autônoma e independente, sem a espera de alguém para a designação da tarefa.
+> Melhorada por meio da realização de tarefas de forma autônoma e independente, sem a necessidade de esperar alguém designar a tarefa.
 
 * Comunicação
-> Melhorada por meio de colaborar e ajudar os meus colegas que estavam com problemas em relação a alguns integrantes do grupo que estavam prejudicando o andamento da aplicação, conversamos com o integrante e ele começou a colaborar para o bom andamento do grupo.
+> Melhorada por meio da colaboração e ajuda aos meus colegas que estavam enfrentando problemas. Em relação a alguns integrantes do grupo que estavam prejudicando o andamento da aplicação, conversamos com um desses integrantes e ele começou a colaborar para o bom andamento do grupo.
