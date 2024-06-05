@@ -250,7 +250,7 @@ Neste projeto, fiquei responsável pelo desenvolvimento Front-End, utilizando as
 ### Soft skills
 
 * Colaboração
-> Durante o projeto, ajudei um colega a implementar algumas funcionalidades em algumas páginas e dei algumas ideias para melhorar o desenvolvimento do projeto.
+> Durante o projeto, ajudei um colega a implementar algumas funcionalidades em React e Type em algumas páginas e dei algumas ideias para melhorar o desenvolvimento do projeto.
 
 * Comunicação 
 > Melhorada por meio da capacidade de colaborar efetivamente com as minhas entregas e ajudar o meu grupo com tecnologias que naquele momento eram novas para nós.
@@ -327,3 +327,74 @@ Neste projeto, fiquei responsável pelo desenvolvimento Front-End, utilizando as
 
 * Comunicação
 > Melhorada por meio da colaboração e ajuda aos meus colegas que estavam enfrentando problemas. Em relação a alguns integrantes do grupo que estavam prejudicando o andamento da aplicação, conversamos com um desses integrantes e ele começou a colaborar para o bom andamento do grupo.
+
+### Em 2024-1
+
+<Div align="justify" >
+
+> [Link para a API do 5º Semestre](https://github.com/NewTechh/API-5-ADS)
+
+A Aprendizagem por Projetos Integrados do 5º Semestre do curso de Análise e Desenvolvimento de Sistemas foi desenvolvido em colaboração com a empresa parceira Oracle. Seu propósito consistia em criar uma aplicação mobile a fim de gerenciar um sistema de progressão das expertises e trilhas de conhecimento da Oracle, assim como os seus parceiro cadastrados no sistema. Para isso, era preciso que a aplicação apresentasse um sistema de que exibisse todos os parceiros cadastrados, as trilhas e expertises que esses parceiros estavam vinculados, a progressão dos parceiros e um sistema de gerenciamento dos mesmos com diferentes níveis de acesso por parte do administrador. Para alcançar a conclusão desse projeto, a nossa equipe criou um repositório no GitHub a fim de armazenar o código-fonte desse projeto. No desenvolvimento utilizamos a linguagem de programação TypeScript com a sua biblioteca de interface gráfica para mobile React Native, um Servidor Back-End em Node.js e um Banco de Dados SQL para gerenciamento de dados, que no caso foi o PostgreSQL e o MongoDB.
+
+</Div>
+
+### Tecnologias utilizadas
+
+<details><summary>Tecnologias</summary>
+   
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>Figma 
+  > Utilizado para desenvolver o protótipo apresentado ao cliente.
+  
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/> VScode 
+  > Utilizado para o desenvolvimento do código de todo o projeto.
+
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/> TypeScript 
+  > Utilizamos a linguagem de programação Typescript para o desenvolvimento do Front-End e também do Back-End.
+
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/> React Native
+  > Utilizamos a biblioteca de interface gráfica mobile React Native para o desenvolvimento do Front-End da aplicação.
+
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/> Node.js 
+  > Utilizamos o Node juntamente com o Typescript para o desenvolvimento do Back-End da aplicação.
+
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/> PostgreSQL 
+  > Utilizamos o PostgreSQL para o armazenamento e consulta de dados do sistema.
+
+   <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/> MongoDB
+  > Utilizamos o MongoDB para o armazenamento e consulta de dados do sistema.
+
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> Git 
+  > Utilizamos o Git devido à sua capacidade de gerenciar e controlar as versões do código-fonte de forma eficiente, possibilitando colaboração, rastreamento de alterações, tornando o desenvolvimento mais organizado e confiável.
+
+</details>
+ 
+
+### Contribuições
+
+<Div align="justify" >
+
+Neste projeto fiquei no desenvolvimento Front-End e fiz o papel de Scrum. Desenvolvi as telas de Expertise, Tracks, Notificações, TableLog, além de auxiliar na montagem do GitHub da equipe e separação de tarefas. Para realizar essa funções utilizei o TypeScript, Node.Js e a ferramenta de versionamento de código Git.
+
+</Div>
+
+### Hard skills
+
+* Desenvolvimento Mobile (React Native + Node.Js)
+> Sei fazer com autonomia.
+
+* Utilização de um SGBD, bancos relacionais e não relacionais de dados. (PostgreSQL e MongoDB)
+> Sei fazer com ajuda.
+
+* Controle de versionamento (Git)  
+> Sei fazer o básico, com autonomia.
+
+### Soft skills
+
+* Proatividade 
+> Adquirida por meio da execução das atividades e tarefas propostas, nesse API, assim como no anterior, desenvolvi bastante funções no front-end, portanto tive um índice de proatividade ainda maior.
+
+* Autonomia 
+> Melhorada por meio da realização de tarefas de forma autônoma e independente, sem a espera de alguem para a designação da tarefa.
+
+* Entrega de Resultados 
+> Adquirida por meio da entrega de resultados dentro do prazo previsto, sempre entregando a minha parte dentro do prazo e sem atrasar a entrega de nenhum integrante do grupo.
