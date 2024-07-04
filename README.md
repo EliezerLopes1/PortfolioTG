@@ -45,7 +45,7 @@ Cursos realizados e certificados.
 
 <Div align="justify" >
 
-> [Link para a API do 1º Semetre](https://github.com/Fiv5TechCo/API-1ADS-2022-1)
+> [Link para a API do 1º Semetre](https://github.com/EliezerLopes1/API-1ADS-2022-1)
 
 No primeiro semestre de 2022, em colaboração com a FATEC, desenvolvemos um sistema web destinado à automação do processo de catalogação de vagas de emprego em diversas áreas profissionais, com foco especial em Tecnologia da Informação (TI). Além disso, nosso objetivo era configurar métricas que avaliassem diferentes tipos de conhecimento, habilidades e competências necessárias para essas vagas. Durante esse projeto, um grande ponto de aprendizado foi a necessidade de realizar uma raspagem web para buscar vagas de emprego em uma plataforma já existente. Em termos visuais, buscamos criar uma interface que fornecesse informações estratégicas por meio de gráficos, priorizando a facilidade de uso e operação. Todo o processo de desenvolvimento foi documentado de forma abrangente no GitHub, contemplando os procedimentos essenciais para garantir a satisfação do cliente.
 
@@ -121,7 +121,7 @@ Neste projeto, fiquei responsável pelo desenvolvimento Front-End, utilizando as
 
 <Div align="justify" >
 
-> [Link para a API do 2º Semetre](https://github.com/LittleTech10/API--2-ADS)
+> [Link para a API do 2º Semetre](https://github.com/EliezerLopes1/API--2-ADS)
 
 O objetivo do projeto deste semestre era desenvolver uma aplicação Java Desktop a fim de registrar canais de marketplaces, meios de pagamentos, plataformas, ERP com usuários, senhas ou tokens fornecidos pelo cliente, com o propósito da empresa parceira acessar as finanças da instituição cadastrada, no qual o aplicativo deverá apresentar um sistema de cadastramento com usuário e operador, e páginas para cadastrar canais, edita-los e gerencia-los.
 
@@ -191,7 +191,7 @@ Em 2023-1
 
 <Div align="justify" >
 
-> [Link para a API do 3º Semetre](https://github.com/LittleTech10/API--3-ADS)
+> [Link para a API do 3º Semetre](https://github.com/EliezerLopes1/API--3-ADS)
 
 O objetivo do projeto deste semestre era desenvolver um sistema WEB de gerenciamento de usuários, assim como um serviço de autenticação/autorização. O serviço deveria ser implementando utilizando tecnologia de microserviço, utilizando recursos e ferramentas da GCP (Google Cloud Platform).
 
@@ -259,7 +259,7 @@ Neste projeto, fiquei responsável pelo desenvolvimento Front-End, utilizando as
 
 <Div align="justify" >
 
-> [Link para a API do 4º Semestre](https://github.com/QuantumTeam23/API--4-ADS)
+> [Link para a API do 4º Semestre](https://github.com/EliezerLopes1/API--4-ADS)
 
 A Aprendizagem por Projetos Integrados do 4º Semestre do curso de Análise e Desenvolvimento de Sistemas foi desenvolvido em colaboração com a empresa parceira Greenneat. Seu propósito consistia em criar uma aplicação web a fim de gerenciar usuários e também os seus créditos, que era usado como moeda de troca em transações de óleo usado a fim de conseguir benefícios e descontos na loja virtual da Greenneat. Para isso, era preciso que a aplicação apresentasse um sistema de que exibisse todas as transações de créditos do sistema para o administador, tais como compras e vendas de produtos, além de um gerenciamento para esses usuários. Para alcançar a conclusão desse projeto, a nossa equipe criou um repositório no GitHub a fim de armazenar o código-fonte desse projeto. No desenvolvimento utilizamos a linguagem de programação TypeScript com a sua biblioteca de interface gráfica React, um Servidor Back-End em Node.js e um Banco de Dados SQL para gerenciamento de dados, que no caso foi o PostgreSQL.
 
@@ -332,7 +332,7 @@ Neste projeto, fiquei responsável pelo desenvolvimento Front-End, utilizando as
 
 <Div align="justify" >
 
-> [Link para a API do 5º Semestre](https://github.com/NewTechh/API-5-ADS)
+> [Link para a API do 5º Semestre](https://github.com/EliezerLopes1/API-5-ADS)
 
 A Aprendizagem por Projetos Integrados do 5º Semestre do curso de Análise e Desenvolvimento de Sistemas foi desenvolvido em colaboração com a empresa parceira Oracle. Seu propósito consistia em criar uma aplicação mobile a fim de gerenciar um sistema de progressão das expertises e trilhas de conhecimento da Oracle, assim como os seus parceiro cadastrados no sistema. Para isso, era preciso que a aplicação apresentasse um sistema de que exibisse todos os parceiros cadastrados, as trilhas e expertises que esses parceiros estavam vinculados, a progressão dos parceiros e um sistema de gerenciamento dos mesmos com diferentes níveis de acesso por parte do administrador. Para alcançar a conclusão desse projeto, a nossa equipe criou um repositório no GitHub a fim de armazenar o código-fonte desse projeto. No desenvolvimento utilizamos a linguagem de programação TypeScript com a sua biblioteca de interface gráfica para mobile React Native, um Servidor Back-End em Node.js e um Banco de Dados SQL para gerenciamento de dados, que no caso foi o PostgreSQL e o MongoDB.
 
