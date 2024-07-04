@@ -34,9 +34,9 @@ Cursos realizados e certificados.
 
 | Curso de MongoDB | Plataforma | Status |
 | :--- | :--- | :--- |
-| Introduction to MongoDB | MongoDB | [Concluído](Imagens/certificado-mongodb.jpg) |
-| MongoDB Python Developer Path | MongoDB | [Concluído](Imagens/mongodb-python-developer-path.jpg) |
-| Formação Front-end - HTML, CSS, JavaScript, React e + | Udemy | Em andamento |
+| Introduction to MongoDB | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) | [Concluído](Imagens/certificado-mongodb.jpg) |
+| MongoDB Python Developer Path | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) | [Concluído](Imagens/mongodb-python-developer-path.jpg) |
+| Formação Front-end - HTML, CSS, JavaScript, React e + | [![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com) | Em andamento
 
 ## Projetos
 
