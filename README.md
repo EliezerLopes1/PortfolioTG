@@ -36,6 +36,7 @@ Cursos realizados e certificados.
 | :--- | :--- | :--- |
 | Introduction to MongoDB | MongoDB | [Concluído](Imagens/certificado-mongodb.jpg) |
 | MongoDB Python Developer Path | MongoDB | [Concluído](Imagens/mongodb-python-developer-path.jpg) |
+| Formação Front-end - HTML, CSS, JavaScript, React e + | Udemy | Em andamento |
 
 ## Projetos
 
