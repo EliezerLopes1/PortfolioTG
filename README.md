@@ -8,7 +8,7 @@
 
 <img align="right" src="https://github.com/EliezerLopes1/PortfolioTG/blob/main/Imagens/1664030816405.jpg" alt="Foto de perfil" width="200"/>
 
-Olá! Eu sou o Eliézer Henrique dos Santos Lopes e desde criança sou apaixonado por tecnologia em geral. Comecei no mundo da programação estudando tecnologias front-end, e atualmente estudo na Faculdade de Tecnologia de São José dos Campos e curso Técnologo em Análise e Desenvolvimento de Sistemas, com foco em programação, desenvolvimento, manutenção de sistemas e aplicação de metodologias ágeis.
+Olá! Eu sou o Eliézer Henrique dos Santos Lopes e, desde criança, sou apaixonado por tecnologia em geral. Comecei no mundo da programação estudando tecnologias de front-end e, atualmente, estudo na Faculdade de Tecnologia de São José dos Campos, cursando Tecnologia em Análise e Desenvolvimento de Sistemas, com foco em programação, desenvolvimento, manutenção de sistemas e aplicação de metodologias ágeis. No momento, não estou atuando no mercado de trabalho, mas estou em busca de oportunidades.
 </Div>
 
 <Div align="center" >
@@ -48,7 +48,13 @@ Cursos realizados e certificados.
 
 > [Link para a API do 1º Semetre](https://github.com/EliezerLopes1/API-1ADS-2022-1)
 
-No primeiro semestre de 2022, em colaboração com a FATEC, desenvolvemos um sistema web destinado à automação do processo de catalogação de vagas de emprego em diversas áreas profissionais, com foco especial em Tecnologia da Informação (TI). Além disso, nosso objetivo era configurar métricas que avaliassem diferentes tipos de conhecimento, habilidades e competências necessárias para essas vagas. Durante esse projeto, um grande ponto de aprendizado foi a necessidade de realizar uma raspagem web para buscar vagas de emprego em uma plataforma já existente. Em termos visuais, buscamos criar uma interface que fornecesse informações estratégicas por meio de gráficos, priorizando a facilidade de uso e operação. Todo o processo de desenvolvimento foi documentado de forma abrangente no GitHub, contemplando os procedimentos essenciais para garantir a satisfação do cliente.
+### Problema
+
+O projeto de Aprendizagem por Projetos Integrados do 1º Semestre do curso de Análise e Desenvolvimento de Sistemas nasceu de uma demanda identificada pelo cliente interno, professor Antônio Egydio São Thiago Graça, da Fatec. O problema abordado foi a ausência de uma plataforma centralizada que facilitasse a catalogação de oportunidades de emprego e cursos de certificação, abrangendo diversas áreas de atuação e ajudando alunos e profissionais a encontrarem essas oportunidades com maior facilidade.
+
+### Solução
+
+Desenvolvemos um sistema web voltado para o armazenamento e consulta dessas vagas de empregos e cursos. O projeto foi estruturado em um repositório no GitHub, onde o código-fonte foi mantido e versionado para facilitar a colaboração e a continuidade do desenvolvimento. Usamos Python e JavaScript para a lógica de programação, enquanto HTML5 e CSS3 formaram a base do desenvolvimento front-end. Além disso, frameworks como Flask e Bootstrap auxiliaram na criação de uma interface intuitiva e responsiva.
 
 </Div>
 
@@ -86,20 +92,17 @@ No primeiro semestre de 2022, em colaboração com a FATEC, desenvolvemos um sis
 
 <Div align="justify" >
 
-Neste projeto, fiquei responsável pelo desenvolvimento Front-End, utilizando as tecnologias HTML5, CSS3 e GitHub. Desenvolvi algumas páginas, como a do Catálogo de Vagas e a página de Cursos. Por fim, também auxiliei no desenvolvimento da documentação no repositório do GitHub.
+Neste projeto, fiquei responsável pelo desenvolvimento Front-End, Desenvolvi algumas páginas, como a do Catálogo de Vagas e a página de Cursos. Por fim, também auxiliei no desenvolvimento da documentação no repositório do GitHub, para realizar essa funções utilizei o HTML5, CSS3 e a ferramenta de versionamento de código Git.
 
 </Div>
 
 ### Hard skills
 
 * Desenvolvimento WEB (Utilizando HTML5, CSS3 e JavaScript)
-> Sei fazer o básico, com autonomia.
+> Sei fazer com autonomia.
 
 * Controle de versionamento (GIT)  
-> Sei fazer o básico, com autonomia.
-
-* Raspagem de Dados (Web-Scraping) (Python)  
-> Não sei fazer.
+> Sei fazer com autonomia.
 
 ### Soft skills
 
@@ -107,16 +110,16 @@ Neste projeto, fiquei responsável pelo desenvolvimento Front-End, utilizando as
 > Durante o projeto, ajudei um colega a implementar uma funcionalidade na página de Catálogo de Vagas e na página de Cursos, e dei algumas ideias para melhorar o desenvolvimento do projeto.
 
 * Organização 
-> Organizar as tarefas da equipe usando o Trello e perceber como as tarefas diárias, semanais e mensais, com base nas especialidades de cada membro, fez-me perceber como organizar um time.
+> Organizei minha rotina diária com base nas tarefas atribuídas a mim para a execução do projeto, priorizando a eficiência e o cumprimento dos prazos.
 
 * Comunicação 
-> Durante o desenvolvimento do sistema de automação de vagas, realizávamos reuniões diárias de stand-up. Eu comunicava claramente o progresso, desafios e necessidades de apoio, facilitando discussões para garantir alinhamento e foco nos objetivos do sprint.
+> Melhorei minha comunicação ao adotar um diálogo aberto e claro durante nossas reuniões diárias. Por exemplo, contribuí sugerindo ideias ao grupo para otimizar a renderização do sistema, como a compressão de imagens para agilizar o carregamento.
  
 * Autonomia
 > No projeto, tomei a iniciativa de aprender sobre a página de cursos e vagas, implementei e testei a integração sozinho, garantindo seu funcionamento perfeito antes de apresentá-la à equipe.
 
 * Trabalho em equipe
-> Junto com um colaborador, ficamos encarregados de cuidar do frontend enquanto outros cuidaram do backend. Nossa colaboração eficaz nos levou a entregar um ótimo projeto.
+> Desenvolvi essa habilidade ao colaborar de forma eficaz com os membros da equipe, garantindo minhas entregas e apoiando colegas durante o desenvolvimento do projeto. Por exemplo, mantive uma postura proativa, perguntando se alguém da equipe de front-end enfrentava dificuldades e, ao mesmo tempo, buscando ajuda quando necessário para as minhas tarefas.
 
 ### Em 2022-2
 
@@ -124,7 +127,13 @@ Neste projeto, fiquei responsável pelo desenvolvimento Front-End, utilizando as
 
 > [Link para a API do 2º Semetre](https://github.com/EliezerLopes1/API--2-ADS)
 
-O objetivo do projeto deste semestre era desenvolver uma aplicação Java Desktop a fim de registrar canais de marketplaces, meios de pagamentos, plataformas, ERP com usuários, senhas ou tokens fornecidos pelo cliente, com o propósito da empresa parceira acessar as finanças da instituição cadastrada, no qual o aplicativo deverá apresentar um sistema de cadastramento com usuário e operador, e páginas para cadastrar canais, edita-los e gerencia-los.
+### Problema
+
+O projeto de Aprendizagem por Projetos Integrados do 2º Semestre no curso de Análise e Desenvolvimento de Sistemas abordou um problema prático em parceria com a TrackCash, uma empresa do setor financeiro especializada em controle de gastos. A necessidade identificada pela TrackCash era a criação de uma aplicação desktop para gerenciar e registrar dados sensíveis, como canais de marketplaces, meios de pagamento, plataformas ERP, e credenciais de acesso, incluindo senhas ou tokens dos clientes, facilitando, assim, o acesso da TrackCash às finanças de instituições cadastradas.
+
+### Solução
+
+Desenvolvemos uma aplicação desktop com funcionalidades específicas de cadastro e gerenciamento, incluindo um sistema de usuários com diferentes permissões (usuário e operador) e páginas dedicadas para registrar, editar e gerenciar canais. O projeto foi versionado e armazenado em um repositório GitHub para facilitar a colaboração e a manutenção do código. Na implementação, utilizamos a linguagem Java com a biblioteca gráfica Swing para a interface de usuário e o banco de dados MySQL para organizar e gerenciar os dados de maneira segura e eficaz.
 
 </Div>
 
@@ -154,7 +163,7 @@ O objetivo do projeto deste semestre era desenvolver uma aplicação Java Deskto
 
 <Div align="justify" >
 
-Neste projeto, fiquei responsável pelo desenvolvimento Front-End, utilizando as tecnologias Java e Figma. Desenvolvi algumas páginas, como a Listagem de Parceiros. Por fim, realizei melhorias nas páginas, aprimorando o visual e a usabilidade.
+Neste projeto, fiquei responsável pelo desenvolvimento Front-End, Desenvolvi algumas páginas, como a Listagem de Parceiros. Por fim, realizei melhorias nas páginas, aprimorando o visual e a usabilidade, além de auxiliar na montagem do GitHub da equipe. Para realizar essa funções utilizei o Java e a ferramenta de versionamento de código Git.
 
 </Div>
 
@@ -170,7 +179,7 @@ Neste projeto, fiquei responsável pelo desenvolvimento Front-End, utilizando as
 > Sei fazer com ajuda.
 
 * Controle de versionamento (GIT)
-> Sei fazer o básico, com autonomia.
+> Sei fazer com autonomia.
 
 ### Soft skills
 
@@ -180,11 +189,8 @@ Neste projeto, fiquei responsável pelo desenvolvimento Front-End, utilizando as
 * Comunicação 
 > Melhorada por meio da colaboração e ajuda aos meus colegas que estavam enfrentando problemas com alguns integrantes do grupo que estavam prejudicando o andamento da aplicação. Conversamos e tomamos a melhor decisão para o grupo.
 
-* Autonomia
-> No projeto, tomei a iniciativa de aprender sobre as funcionalidades que iríamos utilizar, implementei e testei a integração com um colega, garantindo seu funcionamento perfeito antes de apresentá-la à equipe.
-
 * Trabalho em equipe
-> Melhorada por meio da capacidade de colaborar efetivamente com as minhas entregas e ajudar o meu grupo com tecnologias que, naquele momento, eram novas para nós.
+> Melhorei essa habilidade por meio da capacidade de colaborar de forma eficaz com minhas entregas e apoiar meu grupo. Além disso, trabalhei em dupla com um colega para realizar algumas tarefas, o que contribuiu para aprimorar ainda mais o trabalho em equipe.
 
 Em 2023-1
 
@@ -194,67 +200,74 @@ Em 2023-1
 
 > [Link para a API do 3º Semetre](https://github.com/EliezerLopes1/API--3-ADS)
 
-O objetivo do projeto deste semestre era desenvolver um sistema WEB de gerenciamento de usuários, assim como um serviço de autenticação/autorização. O serviço deveria ser implementando utilizando tecnologia de microserviço, utilizando recursos e ferramentas da GCP (Google Cloud Platform).
+### Problema
+
+O projeto de Aprendizagem por Projetos Integrados do 3º Semestre do curso de Análise e Desenvolvimento de Sistemas teve como parceira a Visiona, uma empresa do setor espacial especializada em gerenciamento de satélites e desenvolvimento de softwares espaciais. O problema identificado foi a necessidade de uma aplicação centralizada para gerenciar usuários e monitorar suas ações no sistema. A Visiona buscava uma ferramenta que permitisse aos administradores verificar de forma clara todas as atividades realizadas pelos usuários, como edições, exclusões lógicas e cadastros, facilitando o controle e a segurança no sistema.
+
+
+### Solução
+
+Desenvolvemos uma aplicação web com funcionalidades específicas para o monitoramento das ações dos usuários. A solução incluiu uma interface para que os administradores pudessem visualizar todas as atividades realizadas no sistema de forma organizada e intuitiva. O projeto foi mantido em um repositório GitHub, permitindo versionamento e colaboração contínua. Na implementação, utilizamos TypeScript e a biblioteca React para a criação da interface de usuário, um servidor Back-End em Node.js para a lógica da aplicação, e o banco de dados PostgreSQL para armazenar e gerenciar as informações de maneira eficiente e segura.
 
 </Div>
 
 ### Tecnologias utilizadas
 
 <details><summary>Tecnologias</summary>
-
+   
   <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>Figma 
   > Utilizado para desenvolver o protótipo apresentado ao cliente.
+  
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/> VScode 
+  > Utilizado para o desenvolvimento do código de todo o projeto.
 
-  <img width="50 rem" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"/> Java
-  > Linguagem utilizada durante todo o desenvolvimento da aplicação.
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/> TypeScript 
+  > Utilizamos a linguagem de programação Typescript para o desenvolvimento do Front-End e também do Back-End.
 
-  <img width="50 rem" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/888px-Apache_NetBeans_Logo.svg.png"/> NetBeans 
-  > IDE utilizada no desenvolvimento da aplicação.
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/> React 
+  > Utilizamos a biblioteca de interface gráfica React para o desenvolvimento do Front-End da aplicação.
+
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/> Node.js 
+  > Utilizamos o Node juntamente com o Typescript para o desenvolvimento do Back-End da aplicação.
+
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/> PostgreSQL 
+  > Utilizamos o PostgreSQL para o armazenamento e consulta de dados do sistema.
+
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg"/> Vercel 
+  > Utilizamos o Vercel como nossa plataforma de deployment, para a hospedagem de nossa aplicação web.
 
   <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> Git 
-  > Utilizamos o Git devido à sua capacidade de gerenciar e controlar as versões do código-fonte de forma eficiente, possibilitando colaboração, rastreamento de alterações, tornando o desenvolvimento mais organizado e confiável
+  > Utilizamos o Git devido à sua capacidade de gerenciar e controlar as versões do código-fonte de forma eficiente, possibilitando colaboração, rastreamento de alterações, tornando o desenvolvimento mais organizado e confiável.
 
-  <img width="50 rem" src="https://icones.pro/wp-content/uploads/2021/06/icone-github-violet.png"/> Github 
-  > Utilizamos o GitHub para a hospedagem do código, facilitando o trabalho em equipe, oferecendo controle de versão eficiente e permitindo o gerenciamento dos colaboradore
-
-  <img width="50 rem" src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png"/> MySQL 
-  > Utilizamos o MySQL para a hospedagem dos dados cadastrados durante o desenvolvimento do projeto.
-
-  <img width="50 rem" src="https://www.itexperts.com.br/wp-content/uploads/2022/05/30115906/AWS-Cloud-1.png"/> AWS 
-  > Utilizamos o aws para a hospedagem dos dados cadastrados na versão final do projeto.
-
- </details>
+</details>
  
 
 ### Contribuições pessoais
 
 <Div align="justify" >
 
-Neste projeto, fiquei responsável pelo desenvolvimento Front-End, utilizando as tecnologias TypeScript, React e NodeJS. Desenvolvi algumas páginas e, por fim, realizei melhorias nas páginas, aprimorando o visual e a usabilidade.
+Neste projeto, fui responsável pelo desenvolvimento front-end, criando páginas como "Esqueceu a Senha" e "Cadastro". Além disso, realizei melhorias no visual e na usabilidade das páginas existentes, contribuindo para a experiência do usuário. Também auxiliei na organização do repositório da equipe no GitHub. Para executar essas tarefas, utilizei TypeScript, React.js e a ferramenta de versionamento de código Git.
 
 </Div>
 
 ### Hard skills
 
 * Desenvolvimento WEB (Utilizando TypeScript, React, NodeJS)
-> Sei fazer o básico, com autonomia.
+> Sei fazer com autonomia.
 
 * Arquitetura de banco de dados (Utilizando PostgreSQL)
 > Sei fazer com ajuda.
 
-* Controle de dados (PostgreSQL)
-> Não sei fazer.
-
 * Controle de versionamento (GIT)  
-> Sei fazer o básico, com autonomia.
+> Sei fazer com autonomia.
 
 ### Soft skills
 
 * Colaboração
-> Durante o projeto, ajudei um colega a implementar algumas funcionalidades em React e Type em algumas páginas e dei algumas ideias para melhorar o desenvolvimento do projeto.
+> Durante o projeto, ajudei um colega a implementar algumas funcionalidades em React e Type em algumas páginas, dei algumas ideias para melhorar o desenvolvimento do projeto e fiz as gravações do projeto para subir na documentação do Git.
 
 * Comunicação 
-> Melhorada por meio da capacidade de colaborar efetivamente com as minhas entregas e ajudar o meu grupo com tecnologias que naquele momento eram novas para nós.
+> Melhorei essa habilidade ao realizar tarefas de revisão de gravações, verificando se era necessário regravar ou se estavam adequadas. Além disso, apoiei um colega na implementação de novas telas no projeto, ajudando-o a superar dificuldades e garantindo a qualidade do trabalho em equipe.
 
 ### Em 2023-2
 
@@ -262,7 +275,13 @@ Neste projeto, fiquei responsável pelo desenvolvimento Front-End, utilizando as
 
 > [Link para a API do 4º Semestre](https://github.com/EliezerLopes1/API--4-ADS)
 
-A Aprendizagem por Projetos Integrados do 4º Semestre do curso de Análise e Desenvolvimento de Sistemas foi desenvolvido em colaboração com a empresa parceira Greenneat. Seu propósito consistia em criar uma aplicação web a fim de gerenciar usuários e também os seus créditos, que era usado como moeda de troca em transações de óleo usado a fim de conseguir benefícios e descontos na loja virtual da Greenneat. Para isso, era preciso que a aplicação apresentasse um sistema de que exibisse todas as transações de créditos do sistema para o administador, tais como compras e vendas de produtos, além de um gerenciamento para esses usuários. Para alcançar a conclusão desse projeto, a nossa equipe criou um repositório no GitHub a fim de armazenar o código-fonte desse projeto. No desenvolvimento utilizamos a linguagem de programação TypeScript com a sua biblioteca de interface gráfica React, um Servidor Back-End em Node.js e um Banco de Dados SQL para gerenciamento de dados, que no caso foi o PostgreSQL.
+### Problema
+
+O projeto de Aprendizagem por Projetos Integrados do 4º Semestre no curso de Análise e Desenvolvimento de Sistemas foi desenvolvido em parceria com a Greenneat, uma empresa do setor de controle e descarte de óleo usado. O problema identificado pela Greenneat era a falta de uma plataforma para gerenciar usuários e seus créditos, que funcionavam como moeda de troca em transações de óleo usado, permitindo aos clientes obter benefícios e descontos na loja virtual da empresa. A Greenneat precisava de uma solução que permitisse o controle das transações de créditos, como compras e vendas, além de uma ferramenta para gerenciar esses usuários de forma centralizada.
+
+### Solução
+
+Desenvolvemos uma aplicação web com funcionalidades tanto para os administradores quanto para os usuários finais. Os administradores podiam monitorar todas as transações de crédito realizadas pelos usuários, além de gerenciar seus perfis e atividades no sistema. Já para os usuários, eles tinham acesso a funcionalidades que facilitavam as transações de óleo usado, visualizando seu saldo acumulado e utilizando os créditos como moeda de troca de maneira simples e transparente. A aplicação foi estruturada em um repositório no GitHub para versionamento e colaboração contínua. Usamos TypeScript e a biblioteca React para uma interface responsiva e intuitiva, Node.js para o servidor Back-End e PostgreSQL para garantir o armazenamento e a segurança dos dados de forma eficiente.
 
 </Div>
 
@@ -300,34 +319,28 @@ A Aprendizagem por Projetos Integrados do 4º Semestre do curso de Análise e De
 
 <Div align="justify" >
 
-Neste projeto, fiquei responsável pelo desenvolvimento Front-End, utilizando as tecnologias TypeScript, React e NodeJS. Desenvolvi todas as telas de login e algumas telas de administrador. Por fim, realizei melhorias nas páginas, aprimorando o visual e a usabilidade.
+Neste projeto, fui responsável pelo desenvolvimento front-end e atuei como Product Owner (P.O). Desenvolvi todas as telas de login e algumas telas do administrador, além de criar o backlog para a equipe e gerenciar a comunicação com o cliente. Também realizei melhorias nas páginas, aprimorando o visual e a usabilidade, organizei o repositório da equipe no GitHub e colaborei na criação de tarefas e user stories. Para desempenhar essas funções, utilizei TypeScript, Node.js, Excel e a ferramenta de versionamento de código Git.
 
 </Div>
 
 ### Hard skills
 
 * Desenvolvimento Web (React + Node.Js)
-> Sei fazer o básico, com autonomia.
-
-* Utilização de um SGBD e bancos relacionais de dados. (PostgreSQL)
-> Não sei fazer.
-
-* Deploy de aplicações (Vercel)
-> Não sei fazer.
+> Sei fazer com autonomia.
 
 * Controle de versionamento (Git)  
-> Sei fazer o básico, com autonomia.
+> Sei fazer com autonomia.
 
 ### Soft skills
 
 * Proatividade 
-> Adquirida por meio da execução das atividades e tarefas propostas. Nesse API, desenvolvi muitas funções no front-end em relação aos demais, portanto tive um índice de proatividade maior.
+> Adquiri essa habilidade por meio da execução das atividades e tarefas propostas. Nesse projeto, desenvolvi diversas funções no front-end em comparação com os demais membros da equipe, além de desempenhar a função de PO, o que resultou em um índice maior de proatividade da minha parte.
 
 * Autonomia 
-> Melhorada por meio da realização de tarefas de forma autônoma e independente, sem a necessidade de esperar alguém designar a tarefa.
+> Melhorei essa habilidade ao desempenhar a função de PO, criando o backlog, mantendo a comunicação com o cliente e realizando tarefas de forma autônoma e independente, sem precisar esperar que alguém designasse a atividade.
 
 * Comunicação
-> Melhorada por meio da colaboração e ajuda aos meus colegas que estavam enfrentando problemas. Em relação a alguns integrantes do grupo que estavam prejudicando o andamento da aplicação, conversamos com um desses integrantes e ele começou a colaborar para o bom andamento do grupo.
+> Melhorei minha comunicação ao manter contato frequente com o cliente e ao lidar com conflitos dentro da equipe. Um exemplo foi quando um colega se sentiu sobrecarregado devido a prazos apertados. Organizei uma reunião para redistribuir as tarefas de forma mais equilibrada. Durante a conversa, outro colega ficou nervoso por achar que seria prejudicado, então conversei com ele para esclarecer a situação. Escutei as preocupações de todos e, com base nas sugestões, organizamos um cronograma que atendesse às necessidades da equipe. Isso não apenas solucionou o problema imediato, mas também fortaleceu o espírito de equipe e aprimorou nossa colaboração nas sprints seguintes.
 
 ### Em 2024-1
 
@@ -335,7 +348,14 @@ Neste projeto, fiquei responsável pelo desenvolvimento Front-End, utilizando as
 
 > [Link para a API do 5º Semestre](https://github.com/EliezerLopes1/API-5-ADS)
 
-A Aprendizagem por Projetos Integrados do 5º Semestre do curso de Análise e Desenvolvimento de Sistemas foi desenvolvido em colaboração com a empresa parceira Oracle. Seu propósito consistia em criar uma aplicação mobile a fim de gerenciar um sistema de progressão das expertises e trilhas de conhecimento da Oracle, assim como os seus parceiro cadastrados no sistema. Para isso, era preciso que a aplicação apresentasse um sistema de que exibisse todos os parceiros cadastrados, as trilhas e expertises que esses parceiros estavam vinculados, a progressão dos parceiros e um sistema de gerenciamento dos mesmos com diferentes níveis de acesso por parte do administrador. Para alcançar a conclusão desse projeto, a nossa equipe criou um repositório no GitHub a fim de armazenar o código-fonte desse projeto. No desenvolvimento utilizamos a linguagem de programação TypeScript com a sua biblioteca de interface gráfica para mobile React Native, um Servidor Back-End em Node.js e um Banco de Dados SQL para gerenciamento de dados, que no caso foi o PostgreSQL e o MongoDB.
+### Problema
+
+O projeto de Aprendizagem por Projetos Integrados do 5º Semestre do curso de Análise e Desenvolvimento de Sistemas foi realizado em parceria com a Oracle, uma empresa líder em fornecimento de softwares para desenvolvimento, bancos de dados e ERPs. O desafio identificado foi criar uma aplicação mobile para gerenciar o sistema de progressão de trilhas de conhecimento e expertises dos parceiros cadastrados no sistema da Oracle. A Oracle precisava de uma solução que centralizasse as informações sobre parceiros, trilhas de aprendizado, especializações vinculadas e o progresso desses parceiros, além de fornecer diferentes níveis de acesso para administradores.
+
+### Solução
+
+Desenvolvemos uma aplicação mobile que permitia aos administradores visualizar todos os parceiros cadastrados, as trilhas e expertises associadas, além de monitorar o progresso de cada parceiro no sistema. A aplicação também incluía um sistema de gerenciamento com diferentes níveis de acesso, permitindo aos administradores configurar permissões conforme necessário. O código-fonte foi mantido em um repositório no GitHub para facilitar o versionamento e a colaboração. No desenvolvimento, utilizamos TypeScript junto com a biblioteca React Native para a interface mobile, Node.js como servidor Back-End, além dos bancos de dados PostgreSQL e MongoDB para armazenamento e gestão eficiente dos dados.
+
 
 </Div>
 
@@ -387,15 +407,94 @@ Neste projeto fiquei no desenvolvimento Front-End e fiz o papel de Scrum. Desenv
 > Sei fazer com ajuda.
 
 * Controle de versionamento (Git)  
-> Sei fazer o básico, com autonomia.
+> Sei fazer com autonomia.
 
 ### Soft skills
 
 * Proatividade 
-> Adquirida por meio da execução das atividades e tarefas propostas, nesse API, assim como no anterior, desenvolvi bastante funções no front-end, portanto tive um índice de proatividade ainda maior.
+> Adquiri essa habilidade por meio da execução das atividades e tarefas propostas. Nesse projeto, assim como no anterior, desenvolvi várias funções no front-end, o que resultou em um índice de proatividade ainda maior. Além disso, fiz a divisão das tarefas utilizando o Trello e o Jira.
 
 * Autonomia 
-> Melhorada por meio da realização de tarefas de forma autônoma e independente, sem a espera de alguem para a designação da tarefa.
+> Melhorei essa habilidade ao desempenhar a função de Scrum, realizando a divisão de tarefas, e realizando tarefas de forma autônoma e independente, sem precisar esperar que alguém designasse a atividade.
+
+* Comunicação 
+> Melhorei essa habilidade ao atuar como Scrum Master, especialmente quando houve um conflito entre dois colegas. Tive que intervir para entender a situação e, após conversar com um dos colegas, ele optou por sair do grupo. Além disso, nas reuniões diárias, mantive uma comunicação constante, perguntando se alguém enfrentava dificuldades ou precisava de ajuda, e me encarreguei de designar as tarefas para a equipe de forma eficiente.
 
 * Entrega de Resultados 
-> Adquirida por meio da entrega de resultados dentro do prazo previsto, sempre entregando a minha parte dentro do prazo e sem atrasar a entrega de nenhum integrante do grupo.
+> Adquiri essa habilidade ao desempenhar a função de Scrum Master, realizando a divisão das tarefas, auxiliando a equipe no desenvolvimento e ajudando a resolver suas dificuldades e conflitos.
+
+### Em 2024-2
+
+<Div align="justify" >
+
+> [Link para a API do 6º Semestre](https://github.com/4DeskGroup/API-2024.2)
+
+### Problema
+
+O projeto de Aprendizagem por Projetos Integrados do 6º Semestre no curso de Análise e Desenvolvimento de Sistemas foi realizado em parceria com a Dom Rock, uma empresa de desenvolvimento de software que utiliza Inteligência Artificial como pilar central. A demanda da Dom Rock era desenvolver uma IA capaz de analisar e extrair insights de reviews de produtos de e-commerce, visando auxiliar o departamento de compras corporativas a tomar decisões mais informadas na seleção e aquisição de produtos. A IA deveria otimizar o processo de escolha de fornecedores e produtos, aproveitando o feedback dos consumidores para orientar as decisões de compras.
+
+### Solução
+
+Organizamos o projeto em repositórios no GitHub divididos por área (Front-End, Data set e IA), garantindo uma estrutura colaborativa e bem gerenciada. Utilizamos Python com o framework LangChain para implementar técnicas de chunking, embeddings e RAG na construção da IA, com o FAISS como Vector Database para organizar e buscar informações de forma eficiente. No Front-End, desenvolvemos uma interface web em TypeScript com o framework VueJS, onde criamos um chatbot interativo, permitindo que os usuários façam perguntas e recebam respostas da nossa IA em tempo real, facilitando a consulta e visualização dos insights gerados a partir dos reviews.
+
+</Div>
+
+### Tecnologias utilizadas
+
+<details><summary>Tecnologias</summary>
+   
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>Figma 
+  > Utilizado para desenvolver o protótipo apresentado ao cliente.
+  
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/> VScode 
+  > Utilizado para o desenvolvimento do código de todo o projeto.
+
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/> TypeScript 
+  > Utilizamos a linguagem de programação Typescript para o desenvolvimento do Front-End.
+
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/> VueJS
+  > Utilizamos a biblioteca de interface gráfica VueJS para o desenvolvimento do Front-End da aplicação.
+
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> Python
+  > Utilizamos a linguagem de programação Python para o desenvolvimento da IA.
+
+  <img width="50 rem" src="imagens/simple-icons--langchain (2).png"/> Langchain
+  > Utilizamos a biblioteca Langchain para aplicação de técnicas de RAG (Embeddings, Chunkings, VectorDB, etc).
+
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> Git 
+  > Utilizamos o Git devido à sua capacidade de gerenciar e controlar as versões do código-fonte de forma eficiente, possibilitando colaboração, rastreamento de alterações, tornando o desenvolvimento mais organizado e confiável.
+
+</details>
+ 
+### Contribuições
+
+<Div align="justify" >
+
+Neste projeto, fui responsável pelo desenvolvimento da Inteligência Artificial. Desenvolvi diversas funções, como ajustes no sistema, implementação do histórico de mensagens do usuário, segmentação do usuário, técnicas de análise de sentimentos, além de testes de temperatura e funcionamento da IA. Para executar essas funções, utilizei Python, a biblioteca LangChain e a ferramenta de versionamento de código Git.
+
+</Div>
+
+### Hard skills
+
+* Desenvolvimento Front-End (VueJS)
+> Sei fazer com ajuda.
+
+* Desenvolvimento da IA (Python)
+> Sei fazer com ajuda.
+
+* Desenvolvimento de técnicas de RAG (Langchain)
+> Sei fazer com autonomia.
+
+* Controle de versionamento (Git)  
+> Sei fazer com autonomia.
+
+### Soft skills
+
+* Proatividade 
+> Demonstrei proatividade ao executar diversas funções essenciais no treinamento e otimização da IA. Entre elas, implementação do histórico de mensagens do usuário, segmentação do usuário, técnicas de análise de sentimentos, além de testes de temperatura e funcionamento da IA. Esse trabalho ampliou o impacto do projeto, refletindo um alto nível de proatividade.
+
+* Autonomia 
+> Fortaleci minha autonomia ao realizar tarefas de forma independente, como a implementação do histórico, segmentação do usuário e testes de temperatura e funcionamento da IA, sem esperar por designações. Essa postura garantiu maior agilidade e eficiência no progresso do projeto.
+
+* Trabalho em equipe
+> Contribuí para o trabalho em equipe ao propor ideias para melhorar a IA, como a implementação do histórico, e ao auxiliar meus colegas no uso de Python e da biblioteca LangChain, ambas novas para o grupo. Também os apoiei no desenvolvimento da IA Generativa, que representou nosso primeiro contato com essa tecnologia, facilitando o aprendizado e a adaptação de todos à novidade.
