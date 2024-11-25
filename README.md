@@ -50,8 +50,7 @@ Cursos realizados e certificados.
 
 ### Problema
 
-O projeto de Aprendizagem por Projetos Integrados do 1º Semestre do curso de Análise e Desenvolvimento de Sistemas nasceu de uma demanda identificada pelo cliente interno, professor Antônio Egydio São Thiago Graça, da Fatec. O problema abordado foi a ausência de uma plataforma centralizada que facilitasse a catalogação de oportunidades de emprego e cursos de certificação, abrangendo diversas áreas de atuação e ajudando alunos e profissionais a encontrarem essas oportunidades com maior facilidade.
-
+O projeto de Aprendizagem por Projetos Integrados do 1º Semestre do curso de Análise e Desenvolvimento de Sistemas nasceu de uma demanda identificada pelo cliente interno, professor Antônio Egydio São Thiago Graça, da Fatec. O problema do cliente era que ele sempre precisava tirar um tempo para procurar vagas, mas queria algo para automatizar essa busca, deixando-a automática e ganhando tempo.
 ### Solução
 
 Desenvolvemos um sistema web voltado para o armazenamento e consulta dessas vagas de empregos e cursos. O projeto foi estruturado em um repositório no GitHub, onde o código-fonte foi mantido e versionado para facilitar a colaboração e a continuidade do desenvolvimento. Usamos Python e JavaScript para a lógica de programação, enquanto HTML5 e CSS3 formaram a base do desenvolvimento front-end. Além disso, frameworks como Flask e Bootstrap auxiliaram na criação de uma interface intuitiva e responsiva.
@@ -129,7 +128,7 @@ Neste projeto, fiquei responsável pelo desenvolvimento Front-End, Desenvolvi al
 
 ### Problema
 
-O projeto de Aprendizagem por Projetos Integrados do 2º Semestre no curso de Análise e Desenvolvimento de Sistemas abordou um problema prático em parceria com a TrackCash, uma empresa do setor financeiro especializada em controle de gastos. A necessidade identificada pela TrackCash era a criação de uma aplicação desktop para gerenciar e registrar dados sensíveis, como canais de marketplaces, meios de pagamento, plataformas ERP, e credenciais de acesso, incluindo senhas ou tokens dos clientes, facilitando, assim, o acesso da TrackCash às finanças de instituições cadastradas.
+O projeto de Aprendizagem por Projetos Integrados do 2º Semestre no curso de Análise e Desenvolvimento de Sistemas abordou um problema prático em parceria com a TrackCash, uma empresa do setor financeiro especializada em controle de gastos. A necessidade identificada pelo cliente era a dificuldade no gerenciamento e controle de dados sensíveis e no registro deles, pois haveria dados confidenciais das empresas parceiras, sendo necessário usar tokens e validações para garantir a segurança desses dados.
 
 ### Solução
 
@@ -202,7 +201,7 @@ Em 2023-1
 
 ### Problema
 
-O projeto de Aprendizagem por Projetos Integrados do 3º Semestre do curso de Análise e Desenvolvimento de Sistemas teve como parceira a Visiona, uma empresa do setor espacial especializada em gerenciamento de satélites e desenvolvimento de softwares espaciais. O problema identificado foi a necessidade de uma aplicação centralizada para gerenciar usuários e monitorar suas ações no sistema. A Visiona buscava uma ferramenta que permitisse aos administradores verificar de forma clara todas as atividades realizadas pelos usuários, como edições, exclusões lógicas e cadastros, facilitando o controle e a segurança no sistema.
+O projeto de Aprendizagem por Projetos Integrados do 3º Semestre do curso de Análise e Desenvolvimento de Sistemas teve como parceira a Visiona, uma empresa do setor espacial especializada em gerenciamento de satélites e desenvolvimento de softwares espaciais. O problema identificado pelo cliente foi a necessidade de uma aplicação centralizada para gerenciar usuários e monitorar suas ações no sistema. Eles precisavam verificar as atividades de cada usuário individualmente, o que consumia muito tempo. Por isso, seria necessário uma ferramenta que permitisse aos administradores verificar de forma clara todas as atividades realizadas pelos usuários, como edições, exclusões lógicas e cadastros, facilitando o controle e a segurança no sistema.
 
 
 ### Solução
