@@ -201,7 +201,7 @@ Em 2023-1
 
 ### Problema
 
-O projeto de Aprendizagem por Projetos Integrados do 3º Semestre do curso de Análise e Desenvolvimento de Sistemas teve como parceira a Visiona, uma empresa do setor espacial especializada em gerenciamento de satélites e desenvolvimento de softwares espaciais. O problema identificado pelo cliente foi a necessidade de uma aplicação centralizada para gerenciar usuários e monitorar suas ações no sistema. Eles precisavam verificar as atividades de cada usuário individualmente, o que consumia muito tempo. Por isso, seria necessário uma ferramenta que permitisse aos administradores verificar de forma clara todas as atividades realizadas pelos usuários, como edições, exclusões lógicas e cadastros, facilitando o controle e a segurança no sistema.
+O projeto de Aprendizagem por Projetos Integrados do 3º Semestre do curso de Análise e Desenvolvimento de Sistemas teve como parceira a Visiona, uma empresa do setor espacial especializada em gerenciamento de satélites e desenvolvimento de softwares espaciais. O problema identificado pelo cliente foi a necessidade de uma aplicação centralizada para gerenciar usuários e monitorar suas ações no sistema. Eles precisavam verificar as atividades de cada usuário individualmente gerando uma falta de organização, o que consumia muito tempo. Por isso, seria necessário uma ferramenta que permitisse aos administradores verificar de forma clara todas as atividades realizadas pelos usuários, como edições, exclusões lógicas e cadastros, facilitando o controle e a segurança no sistema.
 
 
 ### Solução
@@ -276,7 +276,7 @@ Neste projeto, fui responsável pelo desenvolvimento front-end, criando páginas
 
 ### Problema
 
-O projeto de Aprendizagem por Projetos Integrados do 4º Semestre no curso de Análise e Desenvolvimento de Sistemas foi desenvolvido em parceria com a Greenneat, uma empresa do setor de controle e descarte de óleo usado. O problema identificado pela Greenneat era a falta de uma plataforma para gerenciar usuários e seus créditos, que funcionavam como moeda de troca em transações de óleo usado, permitindo aos clientes obter benefícios e descontos na loja virtual da empresa. A Greenneat precisava de uma solução que permitisse o controle das transações de créditos, como compras e vendas, além de uma ferramenta para gerenciar esses usuários de forma centralizada.
+O projeto de Aprendizagem por Projetos Integrados do 4º Semestre no curso de Análise e Desenvolvimento de Sistemas foi desenvolvido em parceria com a Greenneat, uma empresa do setor de controle e descarte de óleo usado. A Greenneat enfrentava problemas com a gestão manual de transações de créditos realizadas por telefone, blocos de notas, cadernetas e outros métodos, o que gerava perda de informações e conflitos com parceiros. A empresa precisava de uma solução centralizada para gerenciar essas transações e usuários, permitindo benefícios e descontos aos clientes na loja virtual.
 
 ### Solução
 
@@ -349,7 +349,7 @@ Neste projeto, fui responsável pelo desenvolvimento front-end e atuei como Prod
 
 ### Problema
 
-O projeto de Aprendizagem por Projetos Integrados do 5º Semestre do curso de Análise e Desenvolvimento de Sistemas foi realizado em parceria com a Oracle, uma empresa líder em fornecimento de softwares para desenvolvimento, bancos de dados e ERPs. O desafio identificado foi criar uma aplicação mobile para gerenciar o sistema de progressão de trilhas de conhecimento e expertises dos parceiros cadastrados no sistema da Oracle. A Oracle precisava de uma solução que centralizasse as informações sobre parceiros, trilhas de aprendizado, especializações vinculadas e o progresso desses parceiros, além de fornecer diferentes níveis de acesso para administradores.
+O projeto de Aprendizagem por Projetos Integrados do 5º Semestre do curso de Análise e Desenvolvimento de Sistemas foi realizado em parceria com a Oracle, uma empresa líder em fornecimento de softwares para desenvolvimento, bancos de dados e ERPs. A Oracle dependia de reuniões semanais com parceiros para acompanhar o desempenho em trilhas de aprendizado e definir metas futuras, o que limitava a visão do progresso e o planejamento estratégico. A empresa precisava de uma solução centralizada para gerenciar informações de parceiros, trilhas e especializações, além de monitorar o progresso de forma remota e eficiente.
 
 ### Solução
 
@@ -430,7 +430,7 @@ Neste projeto fiquei no desenvolvimento Front-End e fiz o papel de Scrum. Desenv
 
 ### Problema
 
-O projeto de Aprendizagem por Projetos Integrados do 6º Semestre no curso de Análise e Desenvolvimento de Sistemas foi realizado em parceria com a Dom Rock, uma empresa de desenvolvimento de software que utiliza Inteligência Artificial como pilar central. A demanda da Dom Rock era desenvolver uma IA capaz de analisar e extrair insights de reviews de produtos de e-commerce, visando auxiliar o departamento de compras corporativas a tomar decisões mais informadas na seleção e aquisição de produtos. A IA deveria otimizar o processo de escolha de fornecedores e produtos, aproveitando o feedback dos consumidores para orientar as decisões de compras.
+O projeto de Aprendizagem por Projetos Integrados do 6º Semestre no curso de Análise e Desenvolvimento de Sistemas foi realizado em parceria com a Dom Rock, uma empresa de desenvolvimento de software que utiliza Inteligência Artificial como pilar central. A Dom Rock solicitou uma solução de IA para analisar e extrair insights de reviews de produtos em e-commerce, auxiliando o departamento de compras corporativas a tomar decisões mais estratégicas. A ferramenta deveria usar o feedback dos consumidores para simplificar a escolha de produtos e fornecedores.
 
 ### Solução
 
