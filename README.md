@@ -201,7 +201,7 @@ Em 2023-1
 
 ### Problema
 
-O projeto de Aprendizagem por Projetos Integrados do 3º Semestre do curso de Análise e Desenvolvimento de Sistemas teve como parceira a Visiona, uma empresa do setor espacial especializada em gerenciamento de satélites e desenvolvimento de softwares espaciais. O problema identificado pelo cliente foi a necessidade de uma aplicação centralizada para gerenciar usuários e monitorar suas ações no sistema. Eles precisavam verificar as atividades de cada usuário individualmente gerando uma falta de organização, o que consumia muito tempo. Por isso, seria necessário uma ferramenta que permitisse aos administradores verificar de forma clara todas as atividades realizadas pelos usuários, como edições, exclusões lógicas e cadastros, facilitando o controle e a segurança no sistema.
+O projeto do 3º semestre do curso contou com a colaboração da Visiona, uma empresa especializada no setor espacial, focada na integração de sistemas espaciais e na oferta de serviços baseados em satélites. O cliente enfrentava dificuldades na gestão de funcionários e colaboradores externos, o que resultava em interações desordenadas entre pessoas de diferentes cargos e na comunicação de informações de forma desorganizada. Além disso, não havia uma solução centralizada para gerenciar esses processos.
 
 
 ### Solução
